@@ -108,7 +108,8 @@ For example, a Generative AI model trained on many text documents can learn lang
 </p>
 <h4>Step 7: Finalize and Export</h4>
 <p>The final report structure is suitable for academic submission. It can be formatted with a title page, headings, page numbers, diagrams, comparison tables, and references, then exported as a PDF or Word document. References should be checked and formatted consistently before submission.</p>
+
+# Result
 <p>
   The experiment was successfully completed by studying the fundamentals, architectures, applications, and scaling impact of Generative AI and LLMs. The basic working principles, benefits, and limitations of Generative AI were understood.
 </p>
-# Result
